@@ -8,18 +8,6 @@
 
 let num=0;
 
-// for (let index = 0; num <= 100; index++) {
-//     if(num == 2 || num==3 || num==5 || num==7){
-//         console.log (num); 
-//         num ++;
-//     }else if (num %2!=0 && num %3!=0 && num %5!=0 && num %7!=0 && num!=1){
-//         console.log (num);
-//         num ++;
-//     } else {
-//         num++;
-//     }
-// }
-
 while (num <=100) {
     if(num == 2 || num==3 || num==5 || num==7){
         console.log (num); 
